@@ -5,7 +5,7 @@ Text To SQL LLM App along With Querying SQL Database Using Google Gemini Pro
 
 prompt ---> LLM ---> Gemini pro ---> Query ---> SQL Database ---> Response
 
-# Implementation
+## Implementation
 
 1. SQLite --- Insert some records --- python program
 2. LLM application ---> Gemini pro ---> SQL Database
