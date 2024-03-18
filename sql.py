@@ -1,3 +1,5 @@
+# File to set up my dummy database
+
 import sqlite3
 
 # connection to sqlite
