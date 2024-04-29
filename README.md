@@ -2,6 +2,7 @@
 
 This project is an application that uses Google Gemini Pro to convert natural language questions into SQL queries and retrieves data from a SQLite database. The application is implemented using Python and Streamlit.
 
+![Text-To-SQL-LLM-App](Screenshot.png)
 ## Table of Contents
 
 - [Setup](#setup)
